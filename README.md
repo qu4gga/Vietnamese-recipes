@@ -1,4 +1,4 @@
-# odin-recipes
+# Vietnamese-recipes
 Basic recipe website
 
 
